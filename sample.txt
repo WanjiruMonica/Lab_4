@@ -1,0 +1,4 @@
+My name is Monica.
+I am learning how to code in python.
+Lab 4 specifically is quite challenging.
+But I am sure I will pull through.
